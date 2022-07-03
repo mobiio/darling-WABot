@@ -1,4 +1,4 @@
-![banner](https://github.com/mobiio/darling-WABot/blob/main/Custom/media/banner.png?raw=true)
+![banner](https://github.com/mobiio/darling-WABot/blob/main/Custom/media/image/banner.png)
 
 <h1 align="center">
      Darling WABot
@@ -110,7 +110,7 @@ Após baixar o termux abra-o e digite, respectivamente:
 * pkg install nodejs-Its
 * pkg install git
 * pkg install yarn
-* git clone: https://github.com/m-mob/darling-WABot
+* git clone: https://github.com/mobiio/darling-WABot
 
 O bot será baixado no seu armazenamento interno.
 Digite `cd /sdcard/darling-WABot` e `npm start` para iniciar.
