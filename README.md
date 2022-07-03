@@ -1,4 +1,4 @@
-![banner](https://github.com/mobiio/darling-WABot/blob/main/Custom/media/banner.png?raw=true)
+![banner](https://github.com/mobiio/darling-WABot/blob/main/Custom/media/image/banner.png)
 
 <h1 align="center">
      Darling WABot
