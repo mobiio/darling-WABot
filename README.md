@@ -102,18 +102,19 @@ O foco desse bot é ser uma "base", então considere isso mais como um extra:
 
 Após baixar o termux abra-o e digite, respectivamente:
 * termux-setup-storage
-* ls
-* cd /sdcard
 * pkg update && pkg upgrade
   * se por acaso a instalação pausar, apenas dê enter para continuar
 * pkg install nodejs
 * pkg install nodejs-Its
 * pkg install git
 * pkg install yarn
+* cd /sdcard
 * git clone https://github.com/mobiio/darling-WABot
+* cd /sdcard/darling-WABot
+* pkg install ffmpeg
 
 O bot será baixado no seu armazenamento interno.
-Digite `cd /sdcard/darling-WABot` e `npm start` para iniciar.
+Digite `npm start` para iniciar.
 
 Um QR Code será gerado no terminal.
 Você deverá abrir o whatsapp do bot, clicar em `...` > `aparelhos conectados` > `conectar dispostivo`.
