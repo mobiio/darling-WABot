@@ -6,7 +6,7 @@ pkg install nodejs-Its
 pkg install git
 pkg install yarn
 cd /sdcard
-git clone: https://github.com/mobiio/darling-WABot
+git clone https://github.com/mobiio/darling-WABot
 cd /sdcard/darling-WABot
 sleep 1
 echo "Termux está configurado. Agora basta digitar npm start e escanear o QR Code."
