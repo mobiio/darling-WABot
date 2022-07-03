@@ -94,7 +94,7 @@ O foco desse bot é ser uma "base", então considere isso mais como um extra:
 
 <h2 id="prerequisitos">pré requisitos</h2>
 
-* <a href="https://m.apkpure.com/br/termux/com.termux">Termux</a> atualizado
+* <a href="https://f-droid.org/en/packages/com.termux/">Termux</a> atualizado.
 * ter dois celulares à disposição (ou um pc)
 * dois whatsapps (duas contas)
 
@@ -104,13 +104,13 @@ Após baixar o termux abra-o e digite, respectivamente:
 * termux-setup-storage
 * ls
 * cd /sdcard
-* pkg upgrade && pkg update
+* pkg update && pkg upgrade
   * se por acaso a instalação pausar, apenas dê enter para continuar
 * pkg install nodejs
 * pkg install nodejs-Its
 * pkg install git
 * pkg install yarn
-* git clone: https://github.com/mobiio/darling-WABot
+* git clone https://github.com/mobiio/darling-WABot
 
 O bot será baixado no seu armazenamento interno.
 Digite `cd /sdcard/darling-WABot` e `npm start` para iniciar.
