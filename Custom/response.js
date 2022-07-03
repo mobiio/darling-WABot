@@ -400,7 +400,7 @@ grupo criado em: ${getTime}
 
 			// comandos extra:
 
-		case "ytplay":
+		case "play":
 			(async () => {
 				try {
 				if (!ARGS) return reply(preMsg.missARGS)
