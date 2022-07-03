@@ -10,7 +10,7 @@
 
 ---
 
-Esse bot é um projeto <b>Open Source</b>, então considere apoiá-lo e se torne um [colaborador](#colaborador)! Qualquer ajuda é sempre bem vinda.<br><br>
+Esse bot é um projeto <b>Open Source</b>, então considere apoiá-lo e se torne um [colaborador](#col)! Qualquer ajuda é sempre bem vinda.<br><br>
 Esse bot foi construído com Baileys 4.2.0, e pode suportar tanto conexões Legacy quanto MD. Ele conta com uma variedade de funções, e você pode utilizá-las da forma que desejar.
 
 ---
@@ -388,7 +388,7 @@ O desenvolvedor desse projeto não se responsabiliza por qualquer mau uso ou gar
 
 ---
 
-<h2 id="contribuidores">☕ Contribuidores</h2>
+<h2 id="col">☕ Contribuidores</h2>
 
 [<img src="https://avatars.githubusercontent.com/u/108313655?s=400&u=e12c48b21ba07d8bf38353da768448994b1f00d7&v=4" width=115><br><sub>mobiio</sub>](https://github.com/mobiio) 
 
